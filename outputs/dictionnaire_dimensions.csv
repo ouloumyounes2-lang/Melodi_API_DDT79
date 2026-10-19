@@ -1,0 +1,279 @@
+DIM,DIM_LABEL,MOD,MOD_LABEL
+OBS_STATUS,Statut de l'observation,A,Normale
+BPE_MEASURE,Mesure BPE,FACILITIES,Nombre d'équipements
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,A1,Services publics
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,A2,Services généraux
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,A3,Services automobiles
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,A4,Artisanat du bâtiment
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,A5,Autres services
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,B1,Grandes surfaces
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,B2,Commerces alimentaires
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,B3,Commerces spécialisés non-alimentaires
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,C1,Enseignement du premier degré
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,C2,Enseignement du second degré - premier cycle
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,C3,Enseignement du second degré - second cycle
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,C4,Enseignement supérieur non-universitaire
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,C5,Enseignement supérieur universitaire
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,C6,Formation continue
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,C7,Autres services de l'éducation
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,D1,Etablissements et services de santé
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,D2,Fonctions médicales et paramédicales (à titre libéral)
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,G1,Tourisme
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,D3,Autres établissements et services à caractère sanitaire
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,D4,Action sociale pour personnes âgées
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,D5,Action sociale pour enfants en bas-âge
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,D6,Action sociale pour handicapés
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,D7,Autres services d'action sociale
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,E1,Infrastructures de transports
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,F1,Equipements sportifs
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,F2,Equipements de loisirs
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,F3,Equipements culturels et socioculturels
+FACILITY_SDOM,2e niveau de la classification des types d'équipements,_T,Total
+TIME_PERIOD,Période temporelle,2025,2025
+UNIT_MEASURE,Unité de mesure,NR,Nombre
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A104,Gendarmerie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A105,Cour d’appel
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A108,Conseil de prud’hommes
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A109,Tribunal de commerce
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A120,Direction régionale des finances publiques
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A121,Direction départementale des finances publiques
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A122,Réseau de proximité france travail
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A124,Maison de justice et du droit
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A125,Antenne de justice
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A126,Conseil départemental d’accès au droit
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A128,France services
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A129,Mairie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A130,Bureau d’aide juridictionnelle
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A131,Tribunal judiciaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A132,Tribunal de proximité
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A133,Déchèterie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A134,Cour criminelle departementale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A135,Cour d'assises
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A136,Juridiction administrative
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A137,Tribunal correctionnel
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A138,Tribunal de police
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A139,Tribunal pour enfants
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A140,Police
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A203,"Banque, caisse d’épargne"
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A205,Services funéraires
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A206,Bureau de poste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A207,Relais poste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A208,Agence postale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A301,Réparation automobile et de matériel agricole
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A302,Contrôle technique automobile
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A303,Location auto-utilitaires légers
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A304,École de conduite
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A401,Maçon
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A402,Plâtrier peintre
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A403,Menuisier charpentier serrurier
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A404,Plombier couvreur chauffagiste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A405,Électricien
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A406,Entreprise générale du bâtiment
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A501,Coiffure
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A502,Vétérinaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A503,Agence de travail temporaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A504,Restaurant- restauration rapide
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A505,Agence immobilière
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A506,Pressing-laverie automatique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,A507,Institut de beauté-onglerie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B103,Grande surface de bricolage
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B104,Hypermarché et grand magasin
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B105,Supermarché et magasin multi-commerce
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B201,Supérette
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B202,Épicerie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B204,Boucherie charcuterie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B205,Produits surgelés
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B206,Poissonnerie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B207,Boulangerie-pâtisserie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B208,Commerce spécialisé en fruits et légumes
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B209,Commerce de boissons
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B210,Autres commerces alimentaires
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B302,Magasin de vêtements
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B303,Magasin d’équipements du foyer
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B304,Magasin de chaussures
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B306,Magasin de meubles
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B307,Magasin d’articles de sports et de loisirs
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B308,Magasin de revêtements murs et sols
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B309,Droguerie quincaillerie bricolage
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B310,Parfumerie-cosmétique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B311,Horlogerie-bijouterie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B312,Fleuriste-jardinerie-animalerie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B313,Magasin d’optique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B315,Magasin de matériel médical et orthopédique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B316,Station-service
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B317,Commerce de tissus et mercerie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B318,Commerce de jeux et jouets
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B319,Maroquinerie et articles de voyage
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B320,Commerce de combustibles domestiques
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B321,"Magasin électroménager, matériel audio vidéo informatique"
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B322,Magasin de matériels de télécommunication
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B323,Commerce de biens d’occasion
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B324,Librairie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B325,Papeterie et presse
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,B326,Station de recharge de véhicules électriques
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C107,École maternelle
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C108,École primaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C109,École élémentaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C201,Collège
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C301,Lycée d’enseignement général et/ou technologique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C302,Lycée d’enseignement professionnel
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C303,Lycée d’enseignement technique et/ou professionnel agricole
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C304,Sgt section d’enseignement général et technologique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C305,Sep section d’enseignement professionnel
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C401,"Sts section technicien supérieur, cpge classe préparatoire aux grandes écoles"
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C403,Formation commerce
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C409,Autre formation post bac non universitaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C410,École de formation aux professions sanitaires et sociales
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C411,École de formation aux métiers de la culture
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C501,Ufr
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C502,Institut universitaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C503,École d’ingénieurs
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C504,Enseignement général supérieur privé
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C505,École d’enseignement supérieur agricole
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C509,Autre enseignement supérieur
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C602,Greta
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C603,Centre dispensant de la formation continue agricole
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C604,Formation aux métiers du sport
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C610,Organisme de formation en apprentissage
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C701,Résidence universitaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,C702,Restaurant universitaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D101,Établissement de soins de courte durée
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D102,Établissement de soins de suite et de réadaptation
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D103,Établissement de soins de longue durée
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D104,Établissement psychiatrique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D105,Centre de lutte contre le cancer
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D106,Urgences
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D107,Maternité
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D108,Centre de santé
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D109,Structure psychiatrique en ambulatoire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D110,Centre de médecine préventive
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D111,Dialyse
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D112,Hospitalisation à domicile
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D113,Maison de santé pluridisciplinaire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D114,Service de prise en charge des addictions
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D115,Services de santé maternelle et infantile
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D245,Professionnels de l’appareillage
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D246,Audioprothesiste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,G105,Autres hébergements collectifs touristiques
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D247,Ergothérapeute
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D248,Psychomotricien
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D249,Diététicien
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D250,Psychologue
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D251,Allergologue
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D252,Anesthésiste-réanimateur
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D253,Spécialiste en chirurgie générale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D254,"Spécialiste en chirurgie orthopédique, plastique et traumatologique"
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D255,Endocrinologue
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D256,Gériatre
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D257,Hématologue
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D258,Spécialiste en médecine physique et de réadaptation
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D259,Neurologue
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D260,"Spécialiste en oncologie, anatomie et cytologie pathologiques"
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D261,Rhumatologue
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D262,"Urologue, néphrologue"
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D265,Médecin généraliste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D266,Spécialiste en cardiologie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D267,Spécialiste en dermatologie vénéréologie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D268,Spécialiste en gastro-entérologie hépatologie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D269,Spécialiste en psychiatrie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D270,Spécialiste en ophtalmologie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D271,Spécialiste en oto-rhino-laryngologie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D272,Spécialiste en pédiatrie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D273,Spécialiste en pneumologie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D274,Spécialiste en radiodiagnostic et imagerie médicale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D275,Spécialiste en stomatologie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D276,Spécialiste en gynécologie médicale et/ou obstétrique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D277,Chirurgien dentiste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D278,Sage-femme
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D279,Masseur kinésithérapeute
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D280,Pédicure-podologue
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D281,Infirmier
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D282,Orthophoniste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D283,Orthoptiste
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D302,Laboratoire d analyses et de biologie médicale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D303,Ambulance
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D304,Transfusion sanguine
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D305,Établissement thermal
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D307,Pharmacie
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D401,Personnes âgées : hébergement
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D402,Personnes âgées : soins à domicile
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D403,Personnes âgées : services d’aide
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D502,Établissement d’accueil du jeune enfant
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D503,Lieux d'accueil enfant-parent
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D504,Relais petite enfance
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D505,Accueil de loisir sans hébergement
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D506,Centres sociaux
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D507,Médiation familiale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D508,Espaces de vie sociale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D509,Micro-creche
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D601,Enfants handicapés : hébergement
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D602,Enfants handicapés : services à domicile ou ambulatoires
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D603,Adultes handicapés : accueil/hébergement
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D604,Adultes handicapés : services d’aide
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D605,Travail protégé
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D606,Adultes handicapés : services de soins à domicile
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D607,Service d’aide aux déficients visuels ou auditifs
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D701,Protection de l’enfance : hébergement
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D702,Protection de l’enfance : action éducative
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D703,Centre d’hébergement et de réinsertion sociale
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D704,Centre provisoire d’hébergement
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D705,Centre d'accueil de demandeurs d’asile
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D710,Autres hébergements pour adultes et familles en difficulté
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,D711,Service d’aide aux femmes en situation de vulnérabilité
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,E101,Taxi-vtc
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,E102,Aéroport
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,E107,Gare de voyageurs d’intérêt national
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,E108,Gare de voyageurs d’intérêt régional
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,E109,Gare de voyageurs d’intérêt local
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F101,Bassin de natation
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F102,Boulodrome
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F103,Tennis
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F106,Centre équestre
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F107,Athlétisme
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F108,Terrain de golf
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F109,Parcours sportif/santé
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F110,Sports de glace
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F111,Plateaux et terrains de jeux extérieurs
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F113,Terrains de grands jeux
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F114,Salles de combat
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F116,Salles non spécialisées
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F118,Sports nautiques
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F119,Bowling
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F120,Salles de remise en forme
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F121,"Salles multisports, gymnases"
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F122,Circuit / piste de sports mécaniques
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F123,Mur et fronton
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F124,Pas de tir
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F125,Site d'activités aériennes
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F126,Site de modélisme
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F127,Structure artificielle d’escalade
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F128,Équipements de cyclisme
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F129,Salles spécialisées
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F130,Skatepark & vélo-freestyle
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F201,Baignade aménagée
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F202,Port de plaisance – mouillage
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F203,Boucle de randonnée et parcours de course d’orientation
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F204,Équipements de sports de nature
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F303,Cinéma
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F305,Conservatoire
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F307,Bibliothèque
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F312,Exposition et médiation culturelle
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F313,Espace remarquable et patrimoine
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F314,Archives
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F315,Arts du spectacle
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,G101,Agence de voyage
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,G102,Hôtel
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,G103,Camping
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,G104,Information touristique
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,F105,Domaine skiable
+FACILITY_TYPE,3e niveau de la classification des types d'équipements,_T,Total
+UNIT_MULT,Quantité d'unités (en puissance de 10),0,Unités
+FACILITY_DOM,1er niveau de la classification des types d'équipements,A,Services pour les particuliers
+FACILITY_DOM,1er niveau de la classification des types d'équipements,B,Commerces
+FACILITY_DOM,1er niveau de la classification des types d'équipements,C,Enseignement
+FACILITY_DOM,1er niveau de la classification des types d'équipements,D,Santé et action sociale
+FACILITY_DOM,1er niveau de la classification des types d'équipements,G,Tourisme
+FACILITY_DOM,1er niveau de la classification des types d'équipements,E,Transports et déplacements
+FACILITY_DOM,1er niveau de la classification des types d'équipements,F,"Sports, loisirs et culture"
+FACILITY_DOM,1er niveau de la classification des types d'équipements,_T,Total
+MEASURE,Mesure,OBS_VALUE_NIVEAU,Valeur
